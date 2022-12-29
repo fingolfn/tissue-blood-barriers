@@ -1,0 +1,13 @@
+name: ko_ratio
+title: ko_ratio
+username:
+account: douglasslab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7561662
+bundleId: 6600933
+url: https://douglasslab.shinyapps.io/ko_ratio/
+when: 1670359648.50899
+lastSyncTime: 1670359648.509
+asMultiple: FALSE
+asStatic: FALSE
